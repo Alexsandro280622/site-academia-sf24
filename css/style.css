@@ -221,6 +221,21 @@ button:hover {
 }
 
 /* --- Footer --- */
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem 0;
+}
 
+.rodape{
+    display: flex;
+    gap: 1rem;
 
+}
+
+i {
+    font-size: 2rem;
+    color: var(--cor-principal);
+}
 
